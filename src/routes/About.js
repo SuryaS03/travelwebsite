@@ -8,8 +8,12 @@ function About(){
         <Navbar/>
         <Hero
         cName="hero-mid"
-        heroImg={AboutImg}
+        heroImg={AboutImg} 
+        // imported image
         title="About"
+
+        //for checkin and to want to check
+        btnClass="hide"
        
        />
         </>
