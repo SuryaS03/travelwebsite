@@ -1,5 +1,5 @@
 After Cloning the project you should do onething before running it!
-Enter "npm install react-scripts --save" in your terminal and run it by using "npm start"
+#Enter "npm install react-scripts --save" in your terminal and run it by using "npm start"
 
 
 
