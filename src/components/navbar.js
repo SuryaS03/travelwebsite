@@ -5,6 +5,7 @@ import { MenuItems } from './MenuItems';
 import { Link } from 'react-router-dom';
 
 
+
 class Navbar extends Component{
 state={clicked:false};
 handleClick=()=>{
@@ -32,9 +33,11 @@ render(){
             </Link>
         </li>
   ); })}
-       <button>Sign up</button></ul>
+  
+       <button >ThankYou for visiting my blog</button></ul>
        </nav>
     )       
+
       
 }}
 export default Navbar;

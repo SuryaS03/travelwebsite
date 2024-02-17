@@ -27,11 +27,5 @@ export const MenuItems=[
         icon:"fa-solid fa-briefcase"
 
     },
-    {
-        title:"Sign Up",
-        url:"/signup",
-        cName:"nav-links-mobile",
-        // icon:"fa-solid fa-house"
-
-    }
+   
 ];
