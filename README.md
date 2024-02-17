@@ -1,3 +1,8 @@
+After Cloning the project you should do onething before running it!
+Enter "npm install react-scripts --save" in your terminal and run it by using "npm start"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
