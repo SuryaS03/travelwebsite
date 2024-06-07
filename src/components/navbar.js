@@ -34,7 +34,7 @@ render(){
         </li>
   ); })}
   
-       <button >ThankYou for visiting my blog</button></ul>
+       <button >ThankYou</button></ul>
        </nav>
     )       
 
